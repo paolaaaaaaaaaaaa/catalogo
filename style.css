@@ -2,6 +2,7 @@ body{
     background-color: lightpink;
     color: mediumslateblue;
     margin: 0px;
+    font-family: "Dancing Script", cursive;
 } 
 
 header{
@@ -16,4 +17,9 @@ padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
+}
+
+.chamada-texto{
+
+    margin-right: 5%;
 }
